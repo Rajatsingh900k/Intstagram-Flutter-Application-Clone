@@ -9,12 +9,6 @@ Welcome to the Instagram Clone project! This project is a Flutter application th
 - **Add Friends**: Search for and add friends to your network.
 - **Feed**: View the photos uploaded by your friends.
 
-## Screenshots
-
-![Login Screen](screenshots/login_screen.png)
-![Feed Screen](screenshots/feed_screen.png)
-![Upload Screen](screenshots/upload_screen.png)
-![Profile Screen](screenshots/profile_screen.png)
 
 ## Installation
 
@@ -22,7 +16,7 @@ To run this project on your local machine, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/instagram_clone.git
+    git clone https://github.com/Rajatsingh900k/Intstagram-application-clone.git
     cd instagram_clone
     ```
 
